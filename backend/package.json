@@ -29,6 +29,6 @@
   "dependencies": {
     "@hono/node-server": "^1.19.11",
     "hono": "^4.12.8",
-    "kafkajs": "^2.2.4"
+    "@google-cloud/pubsub": "^4.0.0"
   }
 }
